@@ -10,7 +10,7 @@
 
 ### 특히 많은 도움을 주신 분들
 
-* [@yeonghoey](https://github.com/yeonghoey)
-* [@sublee](https://github.com/sublee)
+* 김영호님([@yeonghoey](https://github.com/yeonghoey))
+* 이흥섭님([@sublee](https://github.com/sublee))
 
 발표 준비에 도움주신 분들께 모두 감사드립니다.
