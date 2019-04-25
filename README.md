@@ -13,4 +13,4 @@
 * 김영호님([@yeonghoey](https://github.com/yeonghoey))
 * 이흥섭님([@sublee](https://github.com/sublee))
 
-발표 준비에 도움주신 분들께 모두 감사드립니다.
+발표 준비에 도움주신 모든 분들께 감사드립니다.
