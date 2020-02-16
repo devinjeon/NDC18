@@ -11,8 +11,8 @@
    * [슬라이드 보기(SpeakerDeck, 자막 포함)](https://hyojun.me/~ndc18-caption)
 * SlideShare
    * SlideShare에서는 슬라이드 수 제한으로 인하여 2부로 나누어 업로드하였습니다.
-   * [슬라이드 보기(SlideShare, 1부)](https://www.slideshare.net/ssuser380e9c/ndc18-95524337)
-   * [슬라이드 보기(SlideShare, 2부)](https://www.slideshare.net/ssuser380e9c/ndc18-2-95522893)
+   * [슬라이드 보기(SlideShare, 1부)](https://hyojun.me/~ndc18-1-slideshare)
+   * [슬라이드 보기(SlideShare, 2부)](https://hyojun.me/~ndc18-2-slideshare)
    
 ### 특히 많은 도움을 주신 분들
 
